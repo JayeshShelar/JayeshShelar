@@ -12,7 +12,7 @@
 
 ### Connect with me on :
 
-<img align="left" alt="JayeshShelar | Twitter" width="25px" src="https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/web.png" /> : [jayeshshelar.github.io](https://jayeshshelar.github.io/)
+<img align="left" alt="JayeshShelar | Twitter" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> : [jayeshshelar.github.io](https://jayeshshelar.github.io/)
 
 <img align="left" alt="JayeshShelar | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> : [jayesh-shelar](https://www.linkedin.com/in/jayesh-shelar/)
 
