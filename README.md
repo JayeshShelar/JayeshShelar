@@ -10,7 +10,7 @@
 <br>
 <br>
 
-#### Connect with me on :
+### Connect with me on :
 
 <img align="left" alt="JayeshShelar | Twitter" width="25px" src="https://github.com/tejasmorkar/tejasmorkar/blob/master/assets/web.png" /> : [jayeshshelar.github.io](https://jayeshshelar.github.io/)
 
