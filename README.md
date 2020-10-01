@@ -8,6 +8,13 @@
 - 📫 How to reach me: [jayeshshelar2000@gmail.com](mailto:jayeshshelar2000@gmail.com)
 
 <br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayeshShelar&&show_icons=true" alt="Jayesh's Github Stats">
+</p>
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshShelar" alt="Jayesh's Top Languages">
+</p>
 <br>
 
 ### Connect with me on :
