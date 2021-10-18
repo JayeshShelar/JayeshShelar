@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jayesh
 
 - 👨 AI-ML Team at [DSC PCCoE](https://github.com/dscpccoe)
-- 🔭 I’m currently working on ML Research Internship at CDAC
+- 🔭 I’m currently working as DevOps Intern at PTC
 - 🌱 I’m currently learning RNNs and GANs
 - 🌱 I’m also getting my hands dirty with CP
 - 👯 I’m looking to collaborate on Machine Learning Projects
